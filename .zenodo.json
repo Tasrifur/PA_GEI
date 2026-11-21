@@ -1,0 +1,22 @@
+{
+  "title": "PA-GEI: Part-Aware Gait Energy Images",
+  "description": "PyTorch code for PA-GEI, a silhouette-based gait recognition method that splits the Gait Energy Image into horizontal strips before feature extraction and encodes each strip with its own lightweight CNN. CASIA-B data are not included; request them from the Institute of Automation, Chinese Academy of Sciences.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Riahi, Tasrifur",
+      "affiliation": "Bangladesh University of Engineering and Technology (BUET)"
+    },
+    {
+      "name": "Mustafa, Hossen A",
+      "affiliation": "Bangladesh University of Engineering and Technology (BUET)"
+    }
+  ],
+  "keywords": [
+    "gait recognition",
+    "gait energy image",
+    "part-based features",
+    "CASIA-B",
+    "biometrics"
+  ]
+}
