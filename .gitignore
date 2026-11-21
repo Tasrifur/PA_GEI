@@ -1,0 +1,17 @@
+# CASIA-B data must not be redistributed
+CASIA_B/
+*.zip
+*.png
+*.jpg
+*.bmp
+*.npy
+*.npz
+
+# Checkpoints and outputs
+*.pth
+*.pt
+*.csv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
